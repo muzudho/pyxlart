@@ -7,7 +7,7 @@ class CellAddressModel():
     """
 
 
-    _code_pattern = re.compile(r'(\w+)(\d+)')
+    _code_pattern = re.compile(r'([A-Z]+)(\d+)')
 
 
     @classmethod
