@@ -23,7 +23,7 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/muzudho/pylart.git"
+Repository = "https://github.com/muzudho/pyxlart.git"
 
 # ビルドツールの設定
 [tool.hatch.build.targets.sdist]
