@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "xlart"
-version = "101.1.0"
+name = "pyxlart"
+version = "102.2.0"
 authors = [
   { name="TAKAHASHI Satoshi (Handle Name:むずでょ)", email="muzudho1@gmail.com" },
 ]
@@ -23,7 +23,7 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/muzudho/xlart.git"
+Repository = "https://github.com/muzudho/pylart.git"
 
 # ビルドツールの設定
 [tool.hatch.build.targets.sdist]
